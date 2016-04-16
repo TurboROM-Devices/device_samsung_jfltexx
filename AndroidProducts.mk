@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_jfltexx.mk
+    $(LOCAL_DIR)/turbo.mk
