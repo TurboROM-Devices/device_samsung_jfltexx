@@ -6,6 +6,10 @@ $(call inherit-product, vendor/turbo/config/nfc_enhanced.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/turbo/common.mk)
 
+# ViPER4Android
+PRODUCT_PACKAGES += \
+    ViPER4Android
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
   PRODUCT_NAME=jfltexx \
   TARGET_DEVICE=jfltexx \
