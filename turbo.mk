@@ -4,7 +4,8 @@ $(call inherit-product, device/samsung/jfltexx/full_jfltexx.mk)
 $(call inherit-product, vendor/turbo/config/nfc_enhanced.mk)
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/turbo/common_full_phone.mk)
+$(call inherit-product, vendor/turbo/config/common.mk)
+$(call inherit-product, vendor/turbo/config/common_full_phone.mk)
 
 # ViPER4Android
 PRODUCT_PACKAGES += \
