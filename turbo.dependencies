@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "TurboRom-Devices/android_device_samsung_jf-common",
+    "repository": "TurboRom-Devices/device_samsung_jf-common",
     "target_path": "device/samsung/jf-common"
     "branch": "mm"
   }
