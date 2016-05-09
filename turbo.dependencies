@@ -1,6 +1,8 @@
 [
   {
-    "repository": "android_device_samsung_jf-common",
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common"
+    "branch": "cm-13.0"
   }
 ]
