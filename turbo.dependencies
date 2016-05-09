@@ -1,8 +1,8 @@
 [
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_device_samsung_jf-common",
+    "repository": "TurboRom-Devices/android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common"
-    "branch": "cm-13.0"
+    "branch": "mm"
   }
 ]
