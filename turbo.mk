@@ -10,6 +10,10 @@ $(call inherit-product, vendor/turbo/config/common_full_phone.mk)
 PRODUCT_PACKAGES += \
     ViPER4Android
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
   PRODUCT_NAME=jfltexx \
   TARGET_DEVICE=jfltexx \
