@@ -4,11 +4,5 @@
     "repository": "TurboROM-Devices/device_samsung_jf-common",
     "target_path": "device/samsung/jf-common",
     "branch": "mm"
-  },
-  {
-    "remote": "github",
-    "repository": "TheMuppets/proprietary_vendor_samsung",
-    "target_path": "vendor/samsung",
-    "branch": "cm-13.0"
   }
 ]
